@@ -4,7 +4,7 @@ Demo Admin Account
 - Password: 12345678
 - Role: Administrator
 
-  Demo Student Account
+Demo Student Account
 - Username: zyrone
 - Password: 12345678
 - Role: Student
